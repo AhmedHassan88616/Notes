@@ -1,2 +1,2 @@
 # Notes
--App stores notes on local database.
+-App stores notes on local database.(MVVM,Room)
